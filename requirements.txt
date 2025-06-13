@@ -1,0 +1,5 @@
+websockets==10.4
+pandas==1.5.3
+python-dotenv==0.21.0
+rich==13.3.5
+psycopg2-binary==2.9.5  # For PostgreSQL
